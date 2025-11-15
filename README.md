@@ -47,3 +47,6 @@ Where:
 
 ```bash
 git clone https://github.com/Sherin12241991/simple-interest-project.git
+
+Updated README for first merge.
+
